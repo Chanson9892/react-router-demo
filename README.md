@@ -1,6 +1,6 @@
 # React Router Demo
 
-a demo to show how to go through different routes using react router. 
+a demo to show how to go through different routes using react router. For more information, read https://chandler-hanson.medium.com/react-router-basics-e93c195e94f6 
 
 ## Getting Started with Create React App
 
