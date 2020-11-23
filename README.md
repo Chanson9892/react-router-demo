@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Router Demo
+
+a demo to show how to go through different routes using react router. 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
